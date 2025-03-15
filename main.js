@@ -212,7 +212,7 @@ function startGame() {
     }
     startGame();
 
-
+}
 /*
 -- NOTES --
 
